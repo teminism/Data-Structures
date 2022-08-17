@@ -1,4 +1,4 @@
-### Binary Search Trees
+# Binary Search Trees
 
 A basic implementation of binary trees. When I implemented stacks,
 I created a class Stack, which had an inner class Stack.Item.  An
