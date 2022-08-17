@@ -1,4 +1,4 @@
-### Array Stack
+# Array Stack
 
 The code to decrease the length of the array is similar to the  code that increases it. I've included a minimum size on the
 array: it only shrinks if it has more than ten elements. This is because, if the is very small, it will fill or empty with just a few operations, so we'll end up shrinking and growing it very often.
